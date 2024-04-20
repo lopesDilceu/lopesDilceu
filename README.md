@@ -1,4 +1,5 @@
-### Olá, eu sou Dilceu Lopes👋
+### Hi, I'm Dilceu Lopes👋
+#### Information Systems Academic at the State University of Montes Claros (UNIMONTES)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dilceu_jr/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilceu-lopes-pereira-j%C3%BAnior-64187b2b9/)
@@ -9,7 +10,7 @@
 
 ![Dilceu GitHub stats](https://github-readme-stats.vercel.app/api?username=lopesDilceu&show_icons=true&theme=onedark)
 
-## Tecnologias que uso
+## Technologies
 
 <div style="display: inline_block"><br>
     <img alt="LARAVEL" style="align: center" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
@@ -25,6 +26,7 @@
     <img alt="Trello" style="align: center" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
     <img alt="Todoist" style="align: center" src="https://img.shields.io/badge/Todoist-E44332?style=for-the-badge&logo=todoist&logoColor=white"/>    
     <img alt="Git" style="align: center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-
-
+<hr>
 </div>
+
+
