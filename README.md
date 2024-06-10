@@ -8,7 +8,10 @@
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/ElDJR/)
 
 ![Dilceu GitHub stats](https://github-readme-stats.vercel.app/api?username=lopesDilceu&show_icons=true&theme=onedark)
-
+<p align= "center">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=lopesDilceu&theme=dark&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopesDilceu&theme=dark&langs_count=5&layout=compact&hide=yacc,c%2B%2B,gdscript,cmake,html,css,blade" />
+</p>
 ## Technologies
 
 <div style="display: inline_block"><br>
