@@ -12,7 +12,7 @@
   <br>
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopesDilceu&theme=dark&langs_count=5&layout=compact&hide=yacc,c%2B%2B,gdscript,cmake,html,css,blade" />
 </p>
-## Technologies
+### Technologies
 
 <div style="display: inline_block"><br>
     <img alt="LARAVEL" style="align: center" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
