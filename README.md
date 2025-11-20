@@ -1,43 +1,67 @@
-### Hi, I'm Dilceu Lopes👋
-#### Information Systems Academic at the State University of Montes Claros (UNIMONTES)
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
+<div align="center">
+  <h1>Hi, I'm Dilceu Lopes👋</h1>
+</div>
+
+### A passionate and enthusiastic Software Engineering and Technology student from Brazil <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
+
+- 🎈 I'm currently working as a Full-Stack Web Developer at Hero Sistemas.
+- 🍃 I’m developing with Laravel and ReactJS.
+- 🤝 I’m eager to contribute to innovative and collaborative projects.
+- 📬 How to reach me: Let’s connect through LinkedIn!
+- 🎲 What I like to do: Coding, gaming, playing instruments, music, and staying active with workouts.
+
+
+##
+
+<h3 align="center">Languages and Frameworks:</h3>
 
 <p align="center">
-  
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilceu-lopes-pereira-j%C3%BAnior-64187b2b9/)
-[![Spotfy](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/dilceu96?si=eab5dfbf1f924125)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dilceu_jr)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](dilceulopesjr181@gmail.com)
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/ElDJR/)
-
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,js,react,ts,html,css,c,java,spring,dart,bootstrap,nodejs,&perline=6" />
+  </a>
 </p>
 
-<br>
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=lopesDilceu&theme=dark&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopesDilceu&theme=dark&langs_count=5&layout=compact&hide=yacc,c%2B%2B,gdscript,cmake,html,css,blade" />
+##
+
+<h3 align="center">Databases and Tools:</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,figma,mysql,mongodb,github,gitlab,git,replit,discord,npm,eclipse,&perline=6" />
+  </a>
 </p>
 
-## Technologies
+##
 
-<div style="display: inline_block;"><br>
-    <img alt="LARAVEL" style="align: center" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-    <img alt="PHP" style="align: center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-    <img alt="HTML5" style="align: center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img alt="CSS3" style="align: center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</div>
-<div style="display: inline_block"><br>
-    <img alt="JAVASCRIPT" style="align: center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img alt="JAVA" style="align: center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-    <img alt="MYSQL" style="align: center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img alt="MariaDB" style="align: center" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
-</div>
-<div style="display: inline_block"><br>
-    <img alt="C" style="align: center" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-    <img alt="Figma" style="align: center" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-    <img alt="Trello" style="align: center" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
-    <img alt="Todoist" style="align: center" src="https://img.shields.io/badge/Todoist-E44332?style=for-the-badge&logo=todoist&logoColor=white"/>    
-    <img alt="Git" style="align: center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-<hr>
-</div>
+### Professional Experience:
+Below is an overview of my most recent work experience:
 
+**Internship - Full-Stack Web Developer** \
+[**Hero Sistemas**](https://www.herosistemas.com/) • AUG/2025 - Present \
+Skills: `Laravel`, `PHP`, `JavaScript`, `MySQL`, `Livewire`, `API Rest`, `HTML`, `CSS`
+<br><br>
 
+**Internship - Full-Stack Web Developer** \
+[**Unimontes**](https://unimontes.br/) • JUN/2024 - JUL/2025 \
+Skills: `Laravel`, `PHP`, `JavaScript`, `MySQL`, `SQL Server`, `HTML`, `CSS`
+<br><br>
+Please find me on [LinkedIn](https://www.linkedin.com/in/dilceu-lopes/) for a more detailed description of my work experience, education, and certification.
+
+##
+
+<div align="center">
+  <h3>Statistics:</h3>
+  <img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/?username=lopesDilceu&show_icons=true&include_all_commits=true&theme=dark"/>
+  <img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopesDilceu&layout=compact&langs_count=7&theme=dark"/>
+</div>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/dilceu-lopes" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:dilceulopesjr181@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://steamcommunity.com/id/ElDJR/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/dlzin__" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/dilceu_jr" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a>
+  <a href="https://open.spotify.com/user/dilceu96?si=eab5dfbf1f924125" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
+</p>
