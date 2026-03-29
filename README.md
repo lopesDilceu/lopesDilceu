@@ -53,8 +53,8 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/dilceu-lopes/) for a mo
 
 <div align="center">
   <h3>Statistics:</h3>
-  <img height="180px" src="https://seu-projeto.vercel.app/api?username=lopesDilceu&show_icons=true&include_all_commits=true&count_private=true&theme=dark&cache_seconds=60"/>
-  <img height="180px" src="https://seu-projeto.vercel.app/api/top-langs/?username=lopesDilceu&layout=compact&langs_count=7&theme=dark&cache_seconds=60"/>
+  <img height="180px" src="https://github-stats.vercel.app/api?username=lopesDilceu&show_icons=true&include_all_commits=true&count_private=true&theme=dark&cache_seconds=60"/>
+  <img height="180px" src="https://github-stats.vercel.app/api/top-langs/?username=lopesDilceu&layout=compact&langs_count=7&theme=dark&cache_seconds=60"/>
 </div>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
