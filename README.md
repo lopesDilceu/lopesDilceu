@@ -1,61 +1,98 @@
 <div align="center">
-  <h1>Hi, I'm Dilceu Lopes 👋</h1>
+
+# Dilceu Lopes
+
+**Full-Stack Developer** &nbsp;·&nbsp; Laravel &nbsp;·&nbsp; Node.js &nbsp;·&nbsp; Flutter
+
+<p>
+  <img src="https://img.shields.io/badge/Brazil-009C3B?style=flat-square&logo=googlemaps&logoColor=white" alt="Brazil">
+  <img src="https://img.shields.io/badge/English-C2-2F6FED?style=flat-square" alt="English C2">
+  <img src="https://img.shields.io/badge/Open%20to%20remote%20work-1F883D?style=flat-square" alt="Open to remote work">
+</p>
+
 </div>
 
-### A passionate and enthusiastic Software Engineering and Technology student from Brazil <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
+Full-Stack Developer at **Hero Sistemas**, where I build a beverage delivery platform end to end — Laravel and Node.js on the backend, and the Flutter app store staff use to manage stock.
 
-- 🎈 Currently working as a Full-Stack Web Developer at Hero Sistemas.
-- 🍃 Developing with Laravel and ReactJS.
-- 🤝 Eager to contribute to innovative and collaborative projects.
-- 📬 How to reach me: Connect on [LinkedIn](https://www.linkedin.com/in/dilceu-lopes/)
-- 🎲 Interests: Coding, gaming, playing instruments, music, and staying active.
+BSc in Information Systems, Universidade Estadual de Montes Claros. Fluent in English (C2), Portuguese native.
 
----
+<br>
 
-<h3 align="center">Languages and Frameworks:</h3>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,js,react,ts,html,css,dart,flutter,c,cs,dotnet,java,spring,bootstrap,nodejs,&perline=6" />
-  </a>
-</p>
-
-<h3 align="center">Databases and Tools:</h3>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,figma,mysql,mongodb,github,gitlab,git,replit,discord,npm,eclipse,visualstudio,&perline=6" />
-  </a>
-</p>
-
----
-
-### Professional Experience
-
-**Internship - Full-Stack Web Developer**  
-[**Hero Sistemas**](https://www.herosistemas.com/) • AUG/2025 - Present  
-Skills: `Laravel`, `PHP`, `JavaScript`, `TypeScript`, `NodeJS`, `MySQL`, `Livewire`, `Flutter`, `Dart`, `API Rest`, `HTML`, `CSS`
-
-**Internship - Full-Stack Web Developer**  
-[**Unimontes**](https://unimontes.br/) • DEC/2023 - JUL/2025  
-Skills: `Laravel`, `PHP`, `JavaScript`, `MySQL`, `SQL Server`, `HTML`, `CSS`
-
-More details on [LinkedIn](https://www.linkedin.com/in/dilceu-lopes/).
-
----
+## Stack
 
 <div align="center">
-  <h3>GitHub Statistics:</h3>
-  <img height="180px" src="https://github-stats-lopesdilceu.vercel.app/api?username=lopesDilceu&show_icons=true&include_all_commits=true&count_private=true&theme=dark&cache_seconds=60"/>
-  <img height="180px" src="https://github-stats-lopesdilceu.vercel.app/api/top-langs/?username=lopesDilceu&layout=compact&langs_count=7&theme=dark&cache_seconds=60"/>
+<table>
+<tr>
+<td align="right"><b>Backend</b></td>
+<td align="left">
+  <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP">&nbsp;&nbsp;
+  <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel">&nbsp;&nbsp;
+  <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/livewire/livewire-original.svg" title="Livewire" alt="Livewire">&nbsp;&nbsp;
+  <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js">
+</td>
+</tr>
+<tr>
+<td align="right"><b>Frontend &amp; Mobile</b></td>
+<td align="left">
+  <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript">&nbsp;&nbsp;
+  <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript">&nbsp;&nbsp;
+  <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React">&nbsp;&nbsp;
+  <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter">&nbsp;&nbsp;
+  <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" title="Dart" alt="Dart">
+</td>
+</tr>
+<tr>
+<td align="right"><b>Data &amp; Infra</b></td>
+<td align="left">
+  <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL">&nbsp;&nbsp;
+  <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" title="Redis" alt="Redis">&nbsp;&nbsp;
+  <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL">&nbsp;&nbsp;
+  <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB">&nbsp;&nbsp;
+  <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker">&nbsp;&nbsp;
+  <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git">
+</td>
+</tr>
+</table>
 </div>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/dilceu-lopes" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:dilceulopesjr181@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://steamcommunity.com/id/ElDJR/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/dlzin__" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/dilceu_jr" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a>
-  <a href="https://open.spotify.com/user/dilceu96?si=eab5dfbf1f924125" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
-</p>
+## Projects
+
+**Academic Portal — Backend API** &nbsp;`final project`
+Backend API behind the new academic portal at Unimontes: content structuring, fuzzy search, document ingestion and event propagation.
+
+**[tabnews-clone](https://github.com/lopesDilceu/tabnews-clone)** &nbsp;`Next.js` `PostgreSQL` `Jest` `Docker`
+Forum API with a Dockerized local environment and integration tests running against a real database.
+
+**[Users-Backend-API](https://github.com/lopesDilceu/Users-Backend-API)** &nbsp;`TypeScript` `Node.js` `MongoDB` `Docker`
+REST API with JWT auth on a layered controller/repository architecture.
+
+## Experience
+
+**Full-Stack Developer** — [Hero Sistemas](https://www.herosistemas.com/) &nbsp;`AUG/2025 — Present`
+*Started as an intern; promoted to Full-Stack Developer in Aug 2026.*
+
+**Full-Stack Developer** — [Unimontes](https://unimontes.br/) &nbsp;`AUG/2023 — AUG/2025`
+*Started in an administrative role maintaining internal systems; moved into full-stack development in 2024.*
+
+More on [LinkedIn](https://www.linkedin.com/in/dilceu-lopes/).
+
+<br>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-lopesdilceu.vercel.app/api?username=lopesDilceu&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E">
+  <img height="160px" src="https://github-stats-lopesdilceu.vercel.app/api?username=lopesDilceu&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=0969DA&icon_color=0969DA&text_color=57606A" alt="GitHub stats">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-lopesdilceu.vercel.app/api/top-langs/?username=lopesDilceu&layout=compact&langs_count=7&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E">
+  <img height="160px" src="https://github-stats-lopesdilceu.vercel.app/api/top-langs/?username=lopesDilceu&layout=compact&langs_count=7&hide_border=true&bg_color=00000000&title_color=0969DA&text_color=57606A" alt="Top languages">
+</picture>
+
+<br><br>
+
+<a href="https://linkedin.com/in/dilceu-lopes"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://dilceulopes.com.br"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+<a href="mailto:dilceulopesjr181@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+
+</div>
