@@ -21,57 +21,40 @@ BSc in Information Systems, Universidade Estadual de Montes Claros. Fluent in En
 ## Stack
 
 <div align="center">
-<table>
-<tr>
-<td align="right"><b>Backend</b></td>
-<td align="left">
-  <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP">&nbsp;&nbsp;
-  <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel">&nbsp;&nbsp;
-  <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/livewire/livewire-original.svg" title="Livewire" alt="Livewire">&nbsp;&nbsp;
-  <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js">
-</td>
-</tr>
-<tr>
-<td align="right"><b>Frontend &amp; Mobile</b></td>
-<td align="left">
-  <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript">&nbsp;&nbsp;
-  <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript">&nbsp;&nbsp;
-  <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React">&nbsp;&nbsp;
-  <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter">&nbsp;&nbsp;
-  <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" title="Dart" alt="Dart">
-</td>
-</tr>
-<tr>
-<td align="right"><b>Data &amp; Infra</b></td>
-<td align="left">
-  <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL">&nbsp;&nbsp;
-  <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" title="Redis" alt="Redis">&nbsp;&nbsp;
-  <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL">&nbsp;&nbsp;
-  <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB">&nbsp;&nbsp;
-  <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker">&nbsp;&nbsp;
-  <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git">
-</td>
-</tr>
-</table>
+
+**Backend** &nbsp;·&nbsp; PHP, Laravel, Livewire, Node.js
+
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs" alt="PHP, Laravel, Node.js">
+
+**Frontend &amp; Mobile** &nbsp;·&nbsp; JavaScript, TypeScript, React, Flutter, Dart
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,flutter,dart" alt="JavaScript, TypeScript, React, Flutter, Dart">
+
+**Data &amp; Infra** &nbsp;·&nbsp; MySQL, Redis, PostgreSQL, MongoDB, Docker, Git
+
+<img src="https://skillicons.dev/icons?i=mysql,redis,postgres,mongodb,docker,git" alt="MySQL, Redis, PostgreSQL, MongoDB, Docker, Git">
+
 </div>
+
+<br>
 
 ## Projects
 
-**Academic Portal — Backend API** &nbsp;`final project`
+**Academic Portal — Backend API** &nbsp; `final project`<br>
 Backend API behind the new academic portal at Unimontes: content structuring, fuzzy search, document ingestion and event propagation.
 
-**[tabnews-clone](https://github.com/lopesDilceu/tabnews-clone)** &nbsp;`Next.js` `PostgreSQL` `Jest` `Docker`
+**[tabnews-clone](https://github.com/lopesDilceu/tabnews-clone)** &nbsp; `Next.js` `PostgreSQL` `Jest` `Docker`<br>
 Forum API with a Dockerized local environment and integration tests running against a real database.
 
-**[Users-Backend-API](https://github.com/lopesDilceu/Users-Backend-API)** &nbsp;`TypeScript` `Node.js` `MongoDB` `Docker`
+**[Users-Backend-API](https://github.com/lopesDilceu/Users-Backend-API)** &nbsp; `TypeScript` `Node.js` `MongoDB` `Docker`<br>
 REST API with JWT auth on a layered controller/repository architecture.
 
 ## Experience
 
-**Full-Stack Developer** — [Hero Sistemas](https://www.herosistemas.com/) &nbsp;`AUG/2025 — Present`
+**Full-Stack Developer** — [Hero Sistemas](https://www.herosistemas.com/) &nbsp; `AUG/2025 — Present`<br>
 *Started as an intern; promoted to Full-Stack Developer in Aug 2026.*
 
-**Full-Stack Developer** — [Unimontes](https://unimontes.br/) &nbsp;`AUG/2023 — AUG/2025`
+**Full-Stack Developer** — [Unimontes](https://unimontes.br/) &nbsp; `AUG/2023 — AUG/2025`<br>
 *Started in an administrative role maintaining internal systems; moved into full-stack development in 2024.*
 
 More on [LinkedIn](https://www.linkedin.com/in/dilceu-lopes/).
